@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Yara, a senior Computer & Communication Engineering student at Alexandria University (class of 2027) with concentration in AI. <br><br>GPRM fields:<br><br>🔭 Currently working on: My graduation project, an AI-powered education & learning platform with sessions management (.NET, React, speech recognition, nlp)<br>💼 Experience highlight: infosec Blue Team SOC intern at e-finance, software development intern at banque misr (frontend track), DEPI Frontend track trainee, software team lead at Vortex Robotics (MATE ROV)<br>
+👋 Hi, I’m Yara, a senior Computer & Communication Engineering student at Alexandria University (class of 2027) with concentration in AI. <br><br>🔭 Currently working on: My graduation project, an AI-powered education & learning platform with sessions management (.NET, React, speech recognition, nlp)<br>💼 Experience highlight: infosec Blue Team SOC intern at e-finance, software development intern at banque misr (frontend track), DEPI Frontend track trainee, software team lead at Vortex Robotics (MATE ROV)<br>
 
 
 ## 🌐 Socials:
